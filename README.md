@@ -6,4 +6,8 @@ Our aim while exploring this dataset is to analyze the data and generate insight
 
 We are interested in increasing the revenue of Netflix, hence our main objective is to figure out which all shows and movies performed the best.
 
-Refer to the link to get better insights about it: 
+Description about files in repository:
+1. netflix.csv - Data used for analysis
+2. Netflix_Data_Analysis.ipynb - Colaboratory notebook containing the code for analysis
+
+Refer to the link to get intutitive insights about the project: 
